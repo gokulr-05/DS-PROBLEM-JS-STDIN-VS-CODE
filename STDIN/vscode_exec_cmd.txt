@@ -1,0 +1,1 @@
+node fileName.extension <inputfileName.extension >outputFileName.extension 
